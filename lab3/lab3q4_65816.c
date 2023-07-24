@@ -14,5 +14,5 @@ int main(){
 	if(sum != 0) cnt--;
 	float result = sum/cnt;
 	printf("sum : %.f, avg : %.2f\n",sum,result);
-	return 0;
+	return 1;
 }
