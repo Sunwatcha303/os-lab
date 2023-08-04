@@ -1,0 +1,62 @@
+only parent before fork
+I am the child no 0
+I am grandchild num 2 of even child no 0
+only parent before fork
+I am the child no 1
+I am grandchild num 1 of even child no 1
+only parent before fork
+I am the child no 0
+I am grandchild num 1 of even child no 0
+only parent before fork
+I am the child no 1
+I am grandchild num 0 of even child no 1
+only parent before fork
+I am the child no 0
+I am grandchild num 0 of even child no 0
+only parent before fork
+I am the child no 4
+I am grandchild num 1 of even child no 4
+only parent before fork
+I am the child no 0
+only parent before fork
+I am the child no 2
+I am grandchild num 2 of even child no 2
+only parent before fork
+I am the child no 3
+I am grandchild num 1 of even child no 3
+only parent before fork
+I am the child no 4
+I am grandchild num 2 of even child no 4
+only parent before fork
+I am the child no 2
+I am grandchild num 1 of even child no 2
+only parent before fork
+I am the child no 3
+I am grandchild num 2 of even child no 3
+only parent before fork
+I am the child no 4
+I am grandchild num 0 of even child no 4
+only parent before fork
+I am the child no 1
+I am grandchild num 3 of even child no 1
+only parent before fork
+I am the child no 3
+I am grandchild num 0 of even child no 3
+only parent before fork
+I am the child no 1
+I am grandchild num 2 of even child no 1
+only parent before fork
+I am the child no 4
+only parent before fork
+I am the child no 3
+I am grandchild num 3 of even child no 3
+only parent before fork
+I am the child no 1
+only parent before fork
+I am the child no 2
+I am grandchild num 0 of even child no 2
+only parent before fork
+I am the child no 3
+only parent before fork
+I am the child no 2
+only parent before fork

@@ -1,0 +1,2 @@
+Enter a positive number : I am child my sum = 300
+Enter a positive number : I am parent my sum = 78

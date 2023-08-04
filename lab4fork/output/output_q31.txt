@@ -1,0 +1,4 @@
+my copy of i is 2
+my sum = 5
+my copy of i is 1
+my sum = 4
