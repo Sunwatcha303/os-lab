@@ -1,300 +1,300 @@
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
----------
 my copy of i is 2
-my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
 ---------
 my copy of i is 2
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
 ---------
 my copy of i is 2
+my copy of i is 2
 my copy of i is 1
 ---------
-my copy of i is 2
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
+my copy of i is 2
 ---------
+my copy of i is 1
 my copy of i is 2
+---------
 my copy of i is 1
 ---------
+my copy of i is 2

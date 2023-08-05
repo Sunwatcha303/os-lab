@@ -1,36 +1,38 @@
 Q1
+	แบบที่ 1
+	my copy of i is 1
+	my copy of i is 2
+
+	แบบที่ 2
+	my copy of i is 2
+	my copy of i is 1
+
+	แบบที่ 3
+	my copy of i is 1
+
+	my copy of i is 2
 	my copy of i is 1
 	my copy of i is 2
 --------------------------------
 Q2
+	1 แบบ
 	my copy of i is 2
 	my copy of i is 1
 --------------------------------
-Q3.1
-	ทำงาน 2 ครั้ง
-Q3.2
-	ทำงาน 1 ครั้ง
+Q3.1	ทำงาน 2 ครั้ง
+Q3.2	ทำงาน 1 ครั้ง
 --------------------------------
-Q6
-	เหมือนกัน
+Q6		เหมือนกัน
 --------------------------------
-Q7.1
-	num_gc = 3
-Q7.2
-	pidsub = fork()
-Q7.3
-	exit(0)
-Q7.4
-	while(wait(NULL) != -1)
-Q7.5
-	num_gc = 4
-Q7.6
-	pidsub == 0
-Q7.7
-	exit(0)
-Q7.8
-	exit(0)
-Q7.9
-	เพราะทั้งโพเซสเลขคู่และเลขคี่มี exit(0) อยู่แล้ว
-Q7.10
-	
+Q7.1	num_gc = 3
+Q7.2	pidsub = fork()
+Q7.3	exit(0)
+Q7.4	while(wait(NULL) != -1)
+Q7.5	num_gc = 4
+Q7.6	pidsub == 0
+Q7.7	exit(0)
+Q7.8	exit(0)
+Q7.9	เพราะทั้งโพเซสเลขคู่และเลขคี่มี exit(0) อยู่แล้ว
+Q7.10	23 บรรทัด
+Q7.11	1 โพเซส parent, 22 โพเซส child
+Q7.12	no

@@ -29,7 +29,7 @@ int main(){
 				for(j=0;j<num_gc;j++){
 					pidsub = fork();
 					if(pidsub==0){
-						printf("I am grandchild num %d of even child no %d\n",j,i);
+						printf("I am grandchild num %d of odd child no %d\n",j,i);
 						exit(0);
 					}
 				}

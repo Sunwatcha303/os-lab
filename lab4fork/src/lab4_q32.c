@@ -18,5 +18,5 @@ int main(){
 	}
 	while(wait(NULL) != -1);
 	printf("bye from main\n");
-        return 0;
+    return 0;
 }

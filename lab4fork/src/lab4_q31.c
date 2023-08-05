@@ -12,15 +12,15 @@ int main(){
 
         if(pid > 0){
                 i = 1;
-sum += i;
+                sum += i;
                 printf("my copy of i is %d\n",i);
         } else {
                 i = 2;
-sum += i;
+                sum += i;
                 printf("my copy of i is %d\n",i);
         }
 	
-printf("my sum = %d\n",sum);
+        printf("my sum = %d\n",sum);
         wait(NULL);
         return 0;
 }
