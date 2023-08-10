@@ -1,0 +1,14 @@
+1.1 ไม่
+1.2 1 ครั้ง
+
+2.1 ทำ
+2.2 1 ครั้ง
+2.3 comment, ลบ, /*B*/ 
+2.4 เพิ่ม exit(0); หลัง /*B*/
+
+3.1 /usr/bin/ls
+3.2 /usr/bin/Whoami
+3.1 /usr/bin/ps
+3.4 ลอง type type แล้ว ได้ type is a shell builtin
+3.5 cd is a shell builtin
+3.6 ไม่ได้
